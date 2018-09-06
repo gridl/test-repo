@@ -78,4 +78,4 @@ def do_magic(folder):
 
 
 if __name__ == '__main__':
-    do_magic(chapter_to_folder_map[17])
+    do_magic(chapter_to_folder_map[5])
