@@ -50,3 +50,6 @@ sh_version_files = glob.glob('sh_vers*')
 
 headers = ['hostname', 'ios', 'image', 'uptime']
 
+
+class A:
+    pass
